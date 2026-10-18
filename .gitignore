@@ -1,0 +1,32 @@
+# Build artifacts
+build/
+bin/
+out/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.o
+*.lib
+*.a
+
+# IDE & Editor files
+.vs/
+.vscode/
+.idea/
+*.sln.docstates
+*.suo
+*.user
+*.userosv
+*.vcxproj.user
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
